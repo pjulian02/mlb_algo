@@ -33,3 +33,5 @@ FANGRAPHS_RELIEF_URL = "https://www.fangraphs.com/leaders.aspx?pos=all&stats=rel
 
 # betting_url = "https://www.lines.com/betting/mlb/odds/book-24"
 # mlb_hitting_nrfiyrfi = "https://www.mlb.com/stats/team?split=i01"
+
+#TESTING
